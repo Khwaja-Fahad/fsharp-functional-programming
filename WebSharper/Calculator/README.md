@@ -3,7 +3,7 @@
 A functional calculator built with F# and WebSharper SPA.
 
 ## Try It Live
-🔗 [Click here to use the app](https://khwaja-fahad.github.io/fsharp-functional-programming/WebSharper/Calculator/)
+🔗 [Click here to use the app](https://khwaja-fahad.github.io/fsharp-functional-programming/Calculator/)
 
 ## Screenshot
 screenshot.png
