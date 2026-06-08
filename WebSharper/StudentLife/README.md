@@ -6,7 +6,7 @@
 ---
 
 ## Try It Live
-### [Click here to open the app](https://khwaja-fahad.github.io/fsharp-functional-programming/StudentLife/)
+### [Click here to open the app](https://khwaja-fahad.github.io/fsharp-functional-programming/StudentLife/wwwroot/)
 
 ---
 
