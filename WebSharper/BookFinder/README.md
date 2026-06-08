@@ -6,7 +6,7 @@
 
 ## 🌐 Try It Live
 
-### [Click here to open the app](https://khwaja-fahad.github.io/fsharp-functional-programming/WebSharper/BookFinder/)
+### [Click here to open the app](https://khwaja-fahad.github.io/fsharp-functional-programming/WebSharper/BookFinder/wwwroot/)
 
 ---
 
